@@ -2,7 +2,7 @@
 
 自定义 订阅转换 配置转换 规则转换 的远程配置：
 
-https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Full_Mannix.ini
+https://raw.githubusercontent.com/Summer-Tail/ACL4SSR/main/ACL4SSR_Online_Full_Mannix.ini
 
 修改自 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini
 
@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Full_Manni
 
 去除国家/地区：
 
-https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Mannix.ini
+https://raw.githubusercontent.com/Summer-Tail/ACL4SSR/main/ACL4SSR_Online_Mannix.ini
 
 远程配置短链：`https://7.7.cr/config-nc`
 
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Mannix.ini
 
 **需去除订阅转换链接中的参数 `emoji=true/false` 才能生效**，参考例子：
 
-`https://api.dler.io/sub?target=clash&udp=true&scv=true&config=https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Full_Mannix.ini&url={原订阅链接}`
+`https://api.dler.io/sub?target=clash&udp=true&scv=true&config=https://raw.githubusercontent.com/Summer-Tail/ACL4SSR/main/ACL4SSR_Online_Full_Mannix.ini&url={原订阅链接}`
 
 ---
 
